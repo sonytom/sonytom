@@ -13,10 +13,10 @@ const themes = {
     bg_color: "fffefe",
   },
   dark: {
-    title_color: "fff",
-    icon_color: "79ff97",
-    text_color: "9f9f9f",
-    bg_color: "151515",
+    title_color: "#ff0000",
+    icon_color: "#ff0000",
+    text_color: "#ff0000",
+    bg_color: "#ff0000",
   },
   radical: {
     title_color: "fe428e",
