@@ -16,7 +16,11 @@ const themes = {
     title_color: "#ff0000",
     icon_color: "#ff0000",
     text_color: "#ff0000",
+<<<<<<< HEAD
     bg_color: "#ff0000",
+=======
+    bg_color: "151515",
+>>>>>>> main
   },
   radical: {
     title_color: "fe428e",

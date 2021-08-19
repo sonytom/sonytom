@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonytom&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonytom&show_icons=true&theme=dark&title_color=#ff0000)
 <!--
 **sonytom/sonytom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
