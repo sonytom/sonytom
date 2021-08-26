@@ -55,7 +55,7 @@ most used sociaw things XD</p>
 <br><br>
 <h2 align="left">            ~ 👨‍💻 more stuffs 👨‍💻 ~</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000)
+<p> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000) </p>
 
 
 <table border = "0" height="250" width="200" >
