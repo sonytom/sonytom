@@ -58,10 +58,10 @@ most used sociaw things XD</p>
 
 
 
-         <tr>
-            <th align="center">  <a><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000"/></a></th>
-            <th align="center">  <a><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000"/></a></th>
-         </tr>
+      
+            <a><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000"/></a>
+             <a><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000"/></a>
+       
          
          <tr>
               <th align="center">  <a><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000"/></a></th>
