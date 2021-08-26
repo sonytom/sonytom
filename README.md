@@ -50,11 +50,30 @@ most used sociaw things XD</p>
  <p align="center"><a href="https://www.instagram.com/tomfichtnerr/" target="_blank"><img src="https://img.shields.io/badge/@tomfich%20-%239146FF.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a></p>
 </div>
 <br>
+<br>
+<br>
 
 <div>
 <br><br>
-<h2 align="left">            ~ 👨‍💻 more stuffs 👨‍💻 ~</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000)
+<h2 align="center">            ~ 👨‍💻 more stuffs 👨‍💻 ~</h2>
+
+<table border = "0" height="250" width="200" >
+         <tr>
+            <th align="center"><iframe src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000"  ></iframe></th>
+            <th align="center"><iframe src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000" ></iframe></th>
+         </tr>
+         
+         <tr>
+            <th align="center"><iframe src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000" ></iframe></th>
+            <th align="center"><iframe src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000" > </iframe></th>
+         </tr>
+		 <tr>
+            <th align="center"><iframe src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000" ></iframe></th>
+            <th align="center"><iframe src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000"> </iframe></th>
+         </tr>
+      </table>
+
+
 <img src="https://c.tenor.com/cUDKyJkDr6kAAAAd/iron-man-iron-man-hammer.gif" align="right" height="250" width="200">
 </div>
 
@@ -76,7 +95,11 @@ most used sociaw things XD</p>
 </div>
 -->
 
+
 <div>
+<br>
+<br>
+<br>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
 <img src="https://c.tenor.com/CnJdWGkM66QAAAAC/jax-teller.gif">
@@ -86,60 +109,3 @@ most used sociaw things XD</p>
 
 </body>
 
-
-
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000)
-
-<!--
-**sonytom/sonytom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-https://tenor.com/view/fairy-tail-smiling-natsu-dragneel-happy-gif-16216127 
-https://tenor.com/view/jax-teller-gif-22808327
-https://tenor.com/view/iron-man-iron-man-hammer-iron-hammer-robert-downey-robert-downey-jr-gif-15959050
-https://tenor.com/view/escanor-sacred-axe-rhitto-seven-deadly-sins-anime-gif-17327999
-https://tenor.com/view/anime-haikyu-hinata-blink-speechless-gif-17039990
-https://tenor.com/view/marvel-deadpool-wade-wilson-surprised-shocked-gif-17522268
-https://giphy.com/gifs/fire-nicolas-cage-motorcycle-hwbWdAuTjDIIg
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000)
-
-<!--
-**sonytom/sonytom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-https://tenor.com/view/fairy-tail-smiling-natsu-dragneel-happy-gif-16216127 
-https://tenor.com/view/jax-teller-gif-22808327
-https://tenor.com/view/iron-man-iron-man-hammer-iron-hammer-robert-downey-robert-downey-jr-gif-15959050
-https://tenor.com/view/escanor-sacred-axe-rhitto-seven-deadly-sins-anime-gif-17327999
-https://tenor.com/view/anime-haikyu-hinata-blink-speechless-gif-17039990
-https://tenor.com/view/marvel-deadpool-wade-wilson-surprised-shocked-gif-17522268
-https://giphy.com/gifs/fire-nicolas-cage-motorcycle-hwbWdAuTjDIIg
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
