@@ -59,11 +59,11 @@ most used sociaw things XD</p>
 
 
       
-        <a href="https://github.com/MartinHeinz/MartinHeinz">
+ <a >
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000" alt="Martin's GitHub Stats" />
+<a >
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000" />
 </a>
         
      
