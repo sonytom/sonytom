@@ -50,7 +50,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://c.tenor.com/CnJdWGkM66QAAAAC/jax-teller.gif">
 </div>
 <hr>
 </div>
@@ -66,6 +66,15 @@ most used s-s-sociaw things >~< xoxox</p>
 **sonytom/sonytom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+https://tenor.com/view/fairy-tail-smiling-natsu-dragneel-happy-gif-16216127 
+https://tenor.com/view/jax-teller-gif-22808327
+https://tenor.com/view/iron-man-iron-man-hammer-iron-hammer-robert-downey-robert-downey-jr-gif-15959050
+https://tenor.com/view/escanor-sacred-axe-rhitto-seven-deadly-sins-anime-gif-17327999
+https://tenor.com/view/anime-haikyu-hinata-blink-speechless-gif-17039990
+https://tenor.com/view/marvel-deadpool-wade-wilson-surprised-shocked-gif-17522268
+https://giphy.com/gifs/fire-nicolas-cage-motorcycle-hwbWdAuTjDIIg
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
