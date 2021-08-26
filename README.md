@@ -50,17 +50,16 @@ most used sociaw things XD</p>
  <p align="center"><a href="https://www.instagram.com/tomfichtnerr/" target="_blank"><img src="https://img.shields.io/badge/@tomfich%20-%239146FF.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a></p>
 </div>
 <br>
-<br>
-<br>
 
 <div>
 <br><br>
-<h2 align="center">            ~ 👨‍💻 more stuffs 👨‍💻 ~</h2>
+<h2 align="left">            ~ 👨‍💻 more stuffs 👨‍💻 ~</h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000)
 
-<th align="center"><iframe src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000"  ></iframe></th>
+
 <table border = "0" height="250" width="200" >
          <tr>
-            
+            <th align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000)</iframe></th>
             <th align="center"><iframe src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000" ></iframe></th>
          </tr>
          
@@ -73,10 +72,8 @@ most used sociaw things XD</p>
             <th align="center"><iframe src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000"> </iframe></th>
          </tr>
       </table>
-
-
+	  
 <img src="https://c.tenor.com/cUDKyJkDr6kAAAAd/iron-man-iron-man-hammer.gif" align="right" height="250" width="200">
-
 </div>
 
 <!-- <div>
@@ -97,11 +94,7 @@ most used sociaw things XD</p>
 </div>
 -->
 
-
 <div>
-<br>
-<br>
-<br>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
 <img src="https://c.tenor.com/CnJdWGkM66QAAAAC/jax-teller.gif">
