@@ -57,7 +57,7 @@ most used sociaw things XD</p>
 
 
 
-<table border = "0" height="250" width="200" >
+
          <tr>
             <th align="center">  <a><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000"/></a></th>
             <th align="center">  <a><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000"/></a></th>
@@ -71,7 +71,7 @@ most used sociaw things XD</p>
              <th align="center">  <a><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000"/></a></th>
             <th align="center">  <a><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sonytom&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=000000"/></a></th>
          </tr>
-      </table>
+     
 	  
 <img src="https://c.tenor.com/cUDKyJkDr6kAAAAd/iron-man-iron-man-hammer.gif" align="right" height="250" width="200">
 </div>
