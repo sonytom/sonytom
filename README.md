@@ -29,7 +29,8 @@
 <div>
 <h2 align="left">            ~ 👨‍💻 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 👨‍💻 ~</h2>
 <p>
-<img src="<iframe src="https://giphy.com/embed/fTn5LkkbcROX228B5C" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/morphin-marvel-deadpool-superhero-fTn5LkkbcROX228B5C">via GIPHY</a></p>" align="right">
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/fTn5LkkbcROX228B5C" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/morphin-marvel-deadpool-superhero-fTn5LkkbcROX228B5C">via GIPHY</a></p>
+<img src="" align="right">
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
