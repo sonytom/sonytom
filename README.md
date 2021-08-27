@@ -29,7 +29,7 @@
 <br><br>
 <div>
 <br><br>
-<h2 align="left">            ~ 👨‍💻 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 👨‍💻 ~</h2>
+<h2 align="center"> ~ 👨‍💻 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 👨‍💻 ~</h2>
 <p>
 <img src="https://c.tenor.com/cUDKyJkDr6kAAAAd/iron-man-iron-man-hammer.gif" align="right" height="250" width="200">
 </div>
@@ -41,8 +41,11 @@ Cursing Bachelor of Technology focused in Computer Science from Uniritter, Porto
 <br>
 <br>
 <br>
-<h2 align="left">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<br>
+<h2 align="center">   📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <img src="https://c.tenor.com/ZS0AXy6JUa4AAAAC/fairy-tail-smiling.gif" align="right" width="373.5px" height="208.5px">
+<br>
+<br>
 <br>
 <p align="center">Hewe awe some of my <br>
 most used sociaw things XD</p>
@@ -53,22 +56,56 @@ most used sociaw things XD</p>
 
 <div>
 
-	
-<h2 align="left">            ~ 👨‍💻 Git Hub Status 👨‍💻 ~</h2>
 
-
-
+<br><br>	
+<h2 align="center">  ~ 👨‍💻 Git Hub Status 👨‍💻 ~</h2>
+<br><br>
 <a href="https://github.com/sonytom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonytom&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
-<a href="https://github.com/sonytom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonytom&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=sonytom&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </a>
 
 
+<a href="https://github.com/sonytom">
+  <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonytom&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
 	
-<!-- <img src="https://c.tenor.com/cUDKyJkDr6kAAAAd/iron-man-iron-man-hammer.gif" align="right" height="250" width="200">-->
+
+
+	
+ <img src="https://c.tenor.com/cUDKyJkDr6kAAAAd/iron-man-iron-man-hammer.gif" align="right" height="250" width="200">
 </div>
+
+
+
+<br><br>
+
+<br><br>	
+<h2 align="center">  ~ 👨‍💻 Git Hub Status 👨‍💻 ~</h2>
+<br><br>
+<a href="https://github.com/sonytom">
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=sonytom&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+</a>
+
+
+<a href="https://github.com/sonytom">
+  <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonytom&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
+	
+
+
+	
+ <img src="https://c.tenor.com/cUDKyJkDr6kAAAAd/iron-man-iron-man-hammer.gif" align="right" height="250" width="200">
+</div>
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
+
 
 <!-- <div>
 <p align="center"><img src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
