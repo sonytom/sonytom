@@ -72,16 +72,20 @@ most used sociaw things XD</p>
 
 
 	
- <img src="https://c.tenor.com/_r88a2QigjEAAAAC/anime-haikyu.gif" align="right" height="250" width="200">
+ <img src="https://c.tenor.com/9Bo0WLr9DxYAAAAC/anime-haikyu.gif" align="right" height="200" width="300">
 </div>
 
 
 
 <br><br>
-
-<br><br>	
-<h2 align="center">  ~ 👨‍💻 Git Hub Status 👨‍💻 ~</h2>
 <br><br>
+<br><br>
+<br><br>
+<br><br>
+
+	
+<h2 align="center">  ~ 👨‍💻 Git Hub Status 👨‍💻 ~</h2>
+
 <a href="https://github.com/sonytom">
   <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=sonytom&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </a>
