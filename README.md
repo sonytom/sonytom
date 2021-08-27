@@ -72,7 +72,7 @@ most used sociaw things XD</p>
 
 
 	
- <img src="https://c.tenor.com/9Bo0WLr9DxYAAAAC/anime-haikyu.gif" align="right" height="180" width="250">
+ <img src="https://c.tenor.com/9Bo0WLr9DxYAAAAC/anime-haikyu.gif" align="right" height="180" width="220">
 </div>
 
 
