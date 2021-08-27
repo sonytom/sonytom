@@ -65,9 +65,27 @@ I am a developer in training on Full Stack Development, Machine learning,Javascr
 <br>
 
 </p>
-<br>
-<br>
 
+<br><br>	
+<h2 align="center">  ~ 👨‍💻 Git Hub Status 👨‍💻 ~</h2>
+<br><br>
+<a href="https://github.com/sonytom">
+  <img width="330px" align="center" src="https://github-readme-stats.vercel.app/api?username=sonytom&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+</a>
+
+
+<a href="https://github.com/sonytom">
+  <img width="290px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonytom&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
+	
+
+
+	
+ <img src="https://c.tenor.com/9Bo0WLr9DxYAAAAC/anime-haikyu.gif" align="right" height="160" width="200">
+</div>
+
+<br>
+<br>
 <br>
 <br>
 <h2 align="center">   📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
@@ -88,31 +106,10 @@ most used sociaw things XD</p>
 <div>
 
 
-<br><br>	
-<h2 align="center">  ~ 👨‍💻 Git Hub Status 👨‍💻 ~</h2>
-<br><br>
-<a href="https://github.com/sonytom">
-  <img width="330px" align="center" src="https://github-readme-stats.vercel.app/api?username=sonytom&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</a>
-
-
-<a href="https://github.com/sonytom">
-  <img width="290px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonytom&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
-	
-
-
-	
- <img src="https://c.tenor.com/9Bo0WLr9DxYAAAAC/anime-haikyu.gif" align="right" height="160" width="200">
-</div>
-
 
 
 <br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+
 
 	
 <!-- <h2 align="center">  ~ 👨‍💻 Git Hub Status 👨‍💻 ~</h2>
