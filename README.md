@@ -37,7 +37,7 @@
 	<br><br><br>
 	Cursing Bachelor of Technology focused in Computer Science from Uniritter, Porto Alegre, Brazil . 
 	<br>
-I am a developer in training on Full Stack Development, Machine learning,Javascript and its frameworks.
+I am a developer in training on Java Back-End Development.
 	
  <br><br>
 
