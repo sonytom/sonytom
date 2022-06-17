@@ -1,27 +1,31 @@
+
 <body>
-<h1 align="center">💻 Hi, I'm Tomás Fichtner 💻</h1>	
-	
-<img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://c.tenor.com/P_06QXKyV5AAAAAC/marvel-deadpool.gif">
+<h1 align="center">💻 Hi, I'm Tomás Fichtner 💻</h1>
+	<br>
+
+<img align="right" alt="Tom-pic" height="200" style="border-radius:50px;" src="https://c.tenor.com/gw5ULZcDQC4AAAAi/deadpool-unicorn.gif%22%3E">
+
+- Programmer: Developer in training on Java Back-End Development.
+- Study: Bachelor of Technology focused in Computer Science.
+- Loves: My girlfriend, burgers, animes and movies.
+- Gender: He/Man.
+- Hobbys: Tech Stuff, Web Development and games.
+- Working: Group Panvel | Team Site.
+
 <br>
 
-<li>
-<b>Programmer:</b> Developer in training on Java Back-End Development.</li>
-<li>
-<b>Study:</b> Bachelor of Technology focused in Computer Science.</li>
-<li>
-<b>Loves:</b> My girlfriend, burger, anime and movies
-</li>
-<li>
-<b>Gender:</b> He/Man
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Web Development and games.
-</li>
-<li>
-<b>Working:</b> Group Panvel | Team Site
-</li>
+##
+ ![Snake animation](https://github.com/sonytom/sonytom/blob/output/github-contribution-grid-snake.svg)
+
 <br>
+ 
+<div align="center">
+  <a href="https://github.com/sonytom">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sonytom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonytom&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+	
+
 
 <p>
 	<h2 align="center">👨‍💻 knowledge 👨‍💻</h2>
@@ -45,22 +49,9 @@
 
 </p>
 
-<br><br>	
-<h2 align="center">  ~ 👨‍💻 Git Hub Status 👨‍💻 ~</h2>
-<br><br>
-<a href="https://github.com/sonytom">
-  <img width="330px" align="center" src="https://github-readme-stats.vercel.app/api?username=sonytom&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</a>
 
 
-<a href="https://github.com/sonytom">
-  <img width="290px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonytom&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
-	
 
-
-	
- <img src="https://c.tenor.com/9Bo0WLr9DxYAAAAC/anime-haikyu.gif" align="right" height="160" width="200">
 </div>
 
 <br>
