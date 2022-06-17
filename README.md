@@ -1,51 +1,30 @@
 <body>
-<h1 align="center">~ 💻 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💻 ~</h1>
-
-<div align="center">
-<img src="https://c.tenor.com/P_06QXKyV5AAAAAC/marvel-deadpool.gif" height="300" width="300" >
-</div>
-<br><br>
-<div>
-
-<h2 align="center"> 💀 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 💀 </h2>
-<img src="https://c.tenor.com/IqpFZ5YdmTIAAAAC/escanor-sacred-axe-rhitto.gif" align="right" height="240" width="170">
-<li>
-<b>Name:</b>Tomás</li>
-<li>
-<b>Loves:</b> almost everything! but my favorite is my girlfriend, burger, anime and movies -///-
-</li>
-<li>
-<b>Gender:</b> he/man
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Web Development,animes,games and more
-</li>
-<li>
-<b>Working @:</b> Group Dimed | Team (?)
-</li>
-<br>
-
-</div>
-<br><br>
-<div>
-<br><br>
-<h2 align="center"> ~ 👨‍💻 My Life 👨‍💻 ~</h2>
-<p>
-<img src="https://c.tenor.com/cUDKyJkDr6kAAAAd/iron-man-iron-man-hammer.gif" align="right" height="240" width="170">
-</div>
-<div>
-	<br><br><br>
-	Cursing Bachelor of Technology focused in Computer Science from Uniritter, Porto Alegre, Brazil . 
-	<br>
-I am a developer in training on Java Back-End Development.
+<h1 align="center">💻 Hi, I'm Tomás Fichtner 💻</h1>	
 	
- <br><br>
+<img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://c.tenor.com/P_06QXKyV5AAAAAC/marvel-deadpool.gif">
+<br>
 
-</p>
+<li>
+<b>Programmer:</b> Developer in training on Java Back-End Development.</li>
+<li>
+<b>Study:</b> Bachelor of Technology focused in Computer Science.</li>
+<li>
+<b>Loves:</b> My girlfriend, burger, anime and movies
+</li>
+<li>
+<b>Gender:</b> He/Man
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff, Web Development and games.
+</li>
+<li>
+<b>Working:</b> Group Panvel | Team Site
+</li>
 <br>
-<br>
-<br>
-	<h2 align="center">knowledge</h2>
+</div>
+
+<p>
+	<h2 align="center">👨‍💻 knowledge 👨‍💻</h2>
 <p>
 	<br>
 <img src="https://c.tenor.com/p1KjBP8czCsAAAAC/smile-raymond-reddington.gif" align="right" width="270.5px" height="230.5px">
