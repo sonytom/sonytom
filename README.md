@@ -5,7 +5,7 @@
 
 <img align="right" alt="Tom-pic" height="200" style="border-radius:50px;" src="https://c.tenor.com/gw5ULZcDQC4AAAAi/deadpool-unicorn.gif%22%3E">
 
-- Programmer: Developer in training on Java Back-End Development.
+- Programmer: Developer Java Back-End Development.
 - Study: Bachelor of Technology focused in Computer Science.
 - Loves: My girlfriend, burgers, animes and movies.
 - Gender: He/Man.
