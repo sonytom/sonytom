@@ -134,4 +134,6 @@ most used sociaw things XD</p>
 
 </body>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sonytom.visitor-badge.issue.1)
+
 
