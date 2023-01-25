@@ -3,7 +3,7 @@
 <h1 align="center">💻 Hi, I'm Tomás Fichtner 💻</h1>
 	<br>
 
-<img align="right" alt="Tom-pic" height="200" style="border-radius:50px;" src="https://c.tenor.com/gw5ULZcDQC4AAAAi/deadpool-unicorn.gif%22%3E">
+<!--- <img align="right" alt="Tom-pic" height="200" style="border-radius:50px;" src="https://c.tenor.com/gw5ULZcDQC4AAAAi/deadpool-unicorn.gif%22%3E"> -->
 
 - Programmer: Developer Java Back-End Development.
 - Study: Bachelor of Technology focused in Computer Science.
