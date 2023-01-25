@@ -16,7 +16,7 @@
 
 
 <h2 align="center"> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://c.tenor.com/ZS0AXy6JUa4AAAAC/fairy-tail-smiling.gif" align="right" width="373.5px" height="208.5px">
+<!---<img src="https://c.tenor.com/ZS0AXy6JUa4AAAAC/fairy-tail-smiling.gif" align="right" width="373.5px" height="208.5px">-->
 <br>
 <p align="center">Hewe awe some of my <br>
 most used sociaw things XD</p>
@@ -29,7 +29,7 @@ most used sociaw things XD</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://c.tenor.com/CnJdWGkM66QAAAAC/jax-teller.gif">
+<!---<img src="https://c.tenor.com/CnJdWGkM66QAAAAC/jax-teller.gif"> -->
 </div>
 <hr>
 </div>
